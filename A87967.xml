@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from sixteen gentlemen of Kent, named in the ordinance for the militia of that county, to the House of Commons, Saturday 16 Decemb. instant, desiring satisfaction of conscience in several things mentioned in the said ordinance, before they act thereupon. With the answer of the House thereunto. As also the remonstrance and petition of divers honest inhabitants of the city of Bristol, and the adjacent villages, to His Excellency, Thomas Lord Fairfax, and the Honorable, the Councel of the Army.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87967</idno><idno type="EEBO-CITATION">99862978</idno>
+  <idno type="VID">162518</idno>
+  <idno type="EEBO-PROQUEST">2248546340</idno>
+  
+            <idno type="STC">Wing L1509</idno>
+            <idno type="STC">Thomason E477_1</idno>
+            <idno type="STC">ESTC R202807</idno>
+            <idno type="PROQUEST">99862978</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862978e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87967)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162518)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E477[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from sixteen gentlemen of Kent, named in the ordinance for the militia of that county, to the House of Commons, Saturday 16 Decemb. instant, desiring satisfaction of conscience in several things mentioned in the said ordinance, before they act thereupon. With the answer of the House thereunto. As also the remonstrance and petition of divers honest inhabitants of the city of Bristol, and the adjacent villages, to His Excellency, Thomas Lord Fairfax, and the Honorable, the Councel of the Army.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. White,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Decemb. 19. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Kent (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Kent (England) --  Militia --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162518:1"/>
+            <p>A LETTER From Sixteen Gentlemen of Kent, NAMED In the Ordinance for the Militia of that COUNTY, To the House of Commons, Saturday 16 <hi>Decemb.</hi> instant, Desiring satisfaction of Conscience in several things mentioned in the said Ordinance, before they act thereupon.</p>
+            <p>With the Answer of the House thereunto.</p>
+            <p>As also the REMONSTRANCE AND Petition of divers honest Inhabitants of the City of BRISTOL, and the adjacent Villages,</p>
+            <p>
+               <hi>To His Excellency, THOMAS</hi> Lord <hi>FAIRFAX,</hi> And the Honorable, The Councel of the Army.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. White,</hi> Decemb. 19. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162518:2"/>
+            <pb n="3" facs="tcp:162518:2"/>
+            <head>For the Honorable <hi>William Lenthal</hi> Esq; Speaker of the Honorable House of Commons.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>UPon perusal of an Ordinance of Parliament of the second of this instant December, for the settling of the Militia of the Kingdom, wherein we are named Commissioners for this County of Kent; and upon consideration of the Ends and Rules in the said Ordinance proposed and prescribed for the execution thereof, we finde our selves under some straights and difficulties, in which before we can proceed to act upon that Ordinance, we humbly crave the Honorable House will be pleased to clear our way, and namely, as to these en<g ref="char:EOLhyphen"/>suing particulars:</p>
+            <p n="1">1. That in regard (as hath been several times de<g ref="char:EOLhyphen"/>clared by the Parliament) That the King hath leavied and carried on a long and bloody War against the Parliament and Kingdom, in opposition to Religi<g ref="char:EOLhyphen"/>on and Liberties; and that the end of putting the Kingdom into a Posture of Defence, is by the said Ordinance declared to be for the Preservation and Safety of the King, Parliament and Kingdom joynt<g ref="char:EOLhyphen"/>ly, That the Honorable House would please to give us to understand, whether the King and Parliament be at Unity, and agreed between themselves or no, touching the said matters of difference, which have been the grounds of the said late Wars.</p>
+            <p n="2">2. That in case they be so agreed, the Honorable
+<pb n="4" facs="tcp:162518:3"/>House would likwise please to give us to understand, upon what terms the said Agreement is, in order to those ends for which the Kingdom hath been in<g ref="char:EOLhyphen"/>gaged in the said Wars, and for which our selves and others are now required to be engaged in the Militia established by this Ordinance, to the end that we may endeavor to satisfie our own and others Consci<g ref="char:EOLhyphen"/>ences, who shall be imployed by us in our and their future actings upon this Ordinance.</p>
+            <p n="3">3. That in case the King and Parliament be yet at difference, upon the same grounds on which the said Wars were undertaken, we then desire the Honorable House would please to help our understandings, to reconcile that seeming contradiction, <hi>viz.</hi> That we should act for the joynt Preservation and Safety of the King and Parliament, when as they are at so great an opposition against each other, especially as the King is represented by you in your Declaration of no further Addresses to Him.</p>
+            <p n="4">4. Whereas by the said Ordinance is required, That all and every the Commissioners therein nomi<g ref="char:EOLhyphen"/>nated, and all Officers of War, shall before they en<g ref="char:EOLhyphen"/>ter upon the execution of their respective Offices and Trusts, take the National League and Cove<g ref="char:EOLhyphen"/>nant, We humbly crave leave to minde you of those Reasons mentioned by you in your Declaration of the thirteenth of March, 1647. whereby you have inform<g ref="char:EOLhyphen"/>ed us of the inconveniency and incongruity of taking and pressing of that Covenant, in reference to the then present state and condition of the Kingdom, so far different from what it was, when the Covenant was first set forth, or hath been formerly required and
+<pb n="5" facs="tcp:162518:3"/>taken. Besides, what the Covenant seemed to hol<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forth in reference to the Person of the King, we hum<g ref="char:EOLhyphen"/>bly conceive to be inconsistent with your said Decla<g ref="char:EOLhyphen"/>ration of the seventeenth of Febr. 1647. shewing the Reasons why you could not repose any more Trust in Him; since which time no Declaration to our knowledge, hath proceeded from you for the re<g ref="char:EOLhyphen"/>moval of these Reasons of your Resolutions of no more Addresses, nor for removal of the Reasons urged by you in your said Declaration of the 13. of March, 1647. concerning the inconveniences of the pressing and urging of the Covenant.</p>
+            <p>All which several difficu<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ies, in reference to our present forbearance of acting upon the said Ordi<g ref="char:EOLhyphen"/>nance, we submit to your serious considerations; as also what course you sh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll in your wisdom think fit to direct, for the present safety of the County, in this interim of our suspension from acting upon this and all other former Ordinances for the Militia there<g ref="char:EOLhyphen"/>of. We rest,</p>
+            <closer>
+               <signed>Your humble Servants.</signed>
+               <dateline>Maidstone, <date>7 Dec. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Answer of the House of Commons.</head>
+            <p>THe House did wel resent this Letter, and order<g ref="char:EOLhyphen"/>ed a Letter of Thanks to the said Gentlemen; and withal to acquaint them, That they had repealed the said <hi>Ordinance.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="6" facs="tcp:162518:4"/>
+                  <head>To His Excellency <hi>THOMAS</hi> Lord <hi>FAIRFAX,</hi> AND The Honorable, The Councel of the Army.</head>
+                  <head type="sub">The humble Representation of divers honest Inhabitants of the City of <hi>Bristol,</hi> and the adjacent Villages.</head>
+                  <opener>
+                     <salute>My Lord and Gentlemen,</salute>
+                  </opener>
+                  <p>WHen we behold the glorious Splendor of Justice and Righteousness, beaming forth it self in your Remonstrance to the House of Commons, <hi>Nov.</hi> 18. 1648. we were filled with Joy and Satisfaction, That the Divine Presence had again overshadowed you, and appeared hereby to us with smiles of Love, and pledges of Fa<g ref="char:EOLhyphen"/>vor, when with the night of Ruine we were almost overwhelmed: For which, as we kiss the Footstool of that glorious Majesty, who thus rarely brings forth our Deliverance; so we chearfully confess you to be his glorious Instruments, whereby he hath stil<g ref="char:EOLhyphen"/>led the Enemy and the Avenger.</p>
+                  <p>We must seriously profess, That though your for<g ref="char:EOLhyphen"/>mer proceedings against that generation were exceed<g ref="char:EOLhyphen"/>ingly prospered, beyond the Parallel of former ages, and had engraven upon them, The kindeness of God to a distressed people; yet they had but served to have made us the more exquisitely miserable, if your for<g ref="char:EOLhyphen"/>mer Conquests should have acquiesc'd in the Actions of that House, Who were bringing your Conquered Prisoner with Honor and Safety, into the Throne of
+<pb n="7" facs="tcp:162518:4"/>Power, Majesty and Greatness, without Satisfaction for the Blood that hath been shed, or sufficient provi<g ref="char:EOLhyphen"/>sion made for the Security of the Liberties of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and their faithful Assertors: And should you now (which God forbid) forbear the effectual prose<g ref="char:EOLhyphen"/>cution of what you have now Remonstrated and pro<g ref="char:EOLhyphen"/>posed, we may from that sadly write all imaginable misery upon us and our Posterity for ever.</p>
+                  <p>We were filled with sorrow, when we saw the abo<g ref="char:EOLhyphen"/>minable Apostacy, and degenerated actings of the majority of the House of Commons, who after we had bought their Security with our most precious Blood and Treasure, should by their treating with the King, so cruelly sell us into the Blood and Revenge of him and his desperate Confederates, so contrary to their first Principles and Declarations, and to Ju<g ref="char:EOLhyphen"/>stice and Equity, esteeming the effusion of the most excellent English Blood, to be but a just Homage to his Lusts and Tyranny, and all their Unhappiness to be but an equitable Tribute to his Will and Pleasure: The consideration of which, as it filled us with a<g ref="char:EOLhyphen"/>mazement, so it drew from us thereof a sad Remon<g ref="char:EOLhyphen"/>strance, which we made ready to present them; but when we saw what would be its portion, in the laying aside of other Petitions of that nature, through the prevalency of the Royal Faction, we were put into great perplexities and thoughts, which way we might avoid our Destruction, and then were directed to your Excellency and Army, as those who were the Sword of the Lord, and the onely way we could imagine for our Preservation; To you then, as the last hopes of our dying Spirits, did our thoughts hasten, if so be
+<pb n="8" facs="tcp:162518:5"/>God laid up in you Salvation; and to that end unbo<g ref="char:EOLhyphen"/>som'd our troubled souls with an humble Represen<g ref="char:EOLhyphen"/>tation, and with our desires, that you would pity your selves and <hi>England,</hi> and take notice of our Apprehen<g ref="char:EOLhyphen"/>sions and Condition in that and the Petition we in<g ref="char:EOLhyphen"/>tended to the House, and act in order to them both; and we were ready to have presented it, but such was the goodness of God, that in the moment of time he appeared upon you beyond all expectation, with the glorious presence of Justice and Equity, and with excellent remedies for the healing of the Nati<g ref="char:EOLhyphen"/>on, laid down in your Remonstrance; with which, as we are really one in all things, so as life upon the giving up of the ghost, was it to us a seasonable re<g ref="char:EOLhyphen"/>freshment.</p>
+                  <p>In the prosecution of which, go on noble Gene<g ref="char:EOLhyphen"/>ral, and worthy Gentlemen, in the strength of the Lord of Hosts, according to his power acting in you, and his people your friends in <hi>England,</hi> and cease not till the Cedars of Tyranny be laid even with the ground, and the happiness of this Nation be esta<g ref="char:EOLhyphen"/>blished upon the Pillars of Judgement and Equity: For the accomplishing of which, we do hereby assure you, that with our Lives and Estates we shall readily follow you in all your Engagements.</p>
+                  <closer/>
+                  <postscript>
+                     <p>We who prescribed a Petition to your Excellency, presented at <hi>Kingston</hi> in <hi>August, 1647.</hi> Do desire our loving friends Mr. <hi>Robert Stapleton,</hi> Mr. <hi>James Powel,</hi> Major <hi>Samuel Clark,</hi> and Captain <hi>Norris,</hi> or any two of them, to deliver this Representation to your Ex<g ref="char:EOLhyphen"/>cellency and Councel in our Names, and at our Requests.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
